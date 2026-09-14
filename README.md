@@ -1,28 +1,2 @@
 # convert-audio-to-text
 Просто тестовый вариант работы модели
-[00:00:00.000 --> 00:00:05.860] For many days, rain fell on the forest without stopping.
-[00:00:06.940 --> 00:00:12.260] Piglet watched from the window as dry ditches turned into streams and streams grew into wide rivers.
-[00:00:13.240 --> 00:00:16.500] The water rose higher and higher until it nearly reached his window.
-[00:00:17.620 --> 00:00:19.160] Piglet felt lonely and afraid.
-[00:00:20.260 --> 00:00:25.040] He wished he could be with Winnie the Pooh or Christopher Robin so he would not be alone during such a flood.
-[00:00:26.060 --> 00:00:28.260] Piglet thought about how his friends could escape.
-[00:00:28.260 --> 00:00:38.260] Christopher Robin and Pooh could climb trees. Kanga could jump. Al could fly. But Piglet could do none of these things.
-[00:00:38.260 --> 00:00:45.260] Then he remembered a story Christopher Robin had told him about a man on a desert island who sent a message in a bottle.
-[00:00:45.260 --> 00:00:52.260] Piglet decided to try the same. He found a pencil, a small dry piece of paper, and a bottle with a cork.
-[00:00:52.260 --> 00:01:04.060] On the paper he wrote, Help! Piglet! Then he dropped the bottle into the water. He watched it float away until it disappeared, hoping someone would find it soon.
-[00:01:05.180 --> 00:01:11.220] Meanwhile, Pooh had been asleep when the rain began. He slept through the first day and part of the next.
-[00:01:12.180 --> 00:01:16.660] When he finally woke, his feet were in water and his house was surrounded by the flood.
-[00:01:17.660 --> 00:01:19.200] Pooh decided he must escape.
-[00:01:20.240 --> 00:01:24.220] He carried his honey pots one by one to a broad branch high on his tree.
-[00:01:25.240 --> 00:01:29.440] Over the next few days, he ate the honey slowly as the water stayed all around.
-[00:01:30.440 --> 00:01:33.340] On the fourth morning, Pooh saw a bottle floating by.
-[00:01:34.040 --> 00:01:38.000] He jumped into the water, grabbed it, and climbed back to his branch.
-[00:01:39.060 --> 00:01:41.460] Inside was a wet message with many letters P.
-[00:01:42.560 --> 00:01:45.820] Pooh could not read, so he decided to take it to Christopher Robin.
-[00:01:46.660 --> 00:01:51.880] He made a boat from his largest honey jar and paddled through the water until he reached Christopher Robin.
-[00:01:52.900 --> 00:01:57.640] Christopher Robin read the message and realised it was from Piglet, who was still trapped by the flood.
-[00:01:58.700 --> 00:02:00.440] He and Pooh hurried to rescue him.
-[00:02:01.400 --> 00:02:03.840] They used Christopher Robin's umbrella as a boat.
-[00:02:04.460 --> 00:02:08.920] They turned it upside down, stepped inside together, and it floated steadily.
-[00:02:09.900 --> 00:02:12.620] When Piglet saw them coming, he felt very happy.
-[00:02:16.660 --> 00:02:46.640] Thank you.
