@@ -1,0 +1,18 @@
+В частности, там находится текст:
+
+For many days, rain fell on the forest without stopping.
+дальше история про Piglet, который оказался один во время наводнения;
+упоминаются Winnie the Pooh и Christopher Robin;
+затем Piglet пишет сообщение Help! Piglet! и отправляет его в бутылке;
+Pooh находит бутылку;
+Christopher Robin понимает, что сообщение от Piglet;
+Pooh и Christopher Robin отправляются спасать Piglet;
+в конце они используют зонтик как лодку.
+
+То есть структура сейчас выглядит так:
+
+shooter11122
+└── convert-audio-to-text
+    ├── README.md
+    └── transcript_wav
+         └── 26 строк расшифровки
